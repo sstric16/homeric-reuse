@@ -135,27 +135,7 @@
 "urn:cts:greekLit:tlg0008.tlg001.berti:5.10@πολλὸς[1]-5.10@μέσσους[1]", "τερπόμενος", "urn:cts:greekLit:tlg0012.tlg001.ogl01: 18.604",""
 "urn:cts:greekLit:tlg0008.tlg001.berti:5.10@πολλὸς[1]-5.10@μέσσους[1]", "δοιὼ δὲ κυβιστητῆρε κατ᾽ αὐτοὺς", "urn:cts:greekLit:tlg0012.tlg001.ogl01: 18.605",""
 "urn:cts:greekLit:tlg0008.tlg001.berti:5.10@πολλὸς[1]-5.10@μέσσους[1]", "μολπῆς ἐξάρχοντες ἐδίνευον κατὰ μέσσους", "urn:cts:greekLit:tlg0012.tlg001.ogl01: 18.606",""
-"Analyzed Text URN","Reused Text","Alignment URN","Analytical Edition URN"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἁπλῆν[1]-1.15@ἀείρας[1]","παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.138","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.138@παρὰ[1]-1.138@τράπεζαν[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἁπλῆν[1]-1.15@ἀείρας[1]","σῖτον δ᾽ αἰδοίη ταμίη παρέθηκε φέρουσα","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.139","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.139@σῖτον[1]-1.139@φέρουσα[1]" 
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἁπλῆν[1]-1.15@ἀείρας[1]","σῖτον δ᾽ αἰδοίη ταμίη παρέθηκε φέρουσα","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.139","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.139@σῖτον[1]-1.139@φέρουσα[1]" 
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἁπλῆν[1]-1.15@ἀείρας[1]","σῖτον δ᾽ αἰδοίη ταμίη παρέθηκε φέρουσα","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.139","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.139@σῖτον[1]-1.139@φέρουσα[1]" 
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἁπλῆν[1]-1.15@ἀείρας[1]","σῖτον δ᾽ αἰδοίη ταμίη παρέθηκε φέρουσα","urn:cts:greekLit:tlg0012.tlg002.ogl01:7.175","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:7.175@σῖτον[1]-7.175@φέρουσα[1]" 
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἁπλῆν[1]-1.15@ἀείρας[1]","δαιτρὸς δὲ κρειῶν πίνακας παρέθηκεν ἀείρας","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.141","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.141@δαιτρὸς[1]-1.141@ἀείρας[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@καὶ[26]-1.15@αὐτῷ[2]","νῶτα βοὸς παρέθηκεν","urn:cts:greekLit:tlg0012.tlg002.ogl01:4.66","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:4.66@νῶτα[1]-4.66@θῆκεν[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@καὶ[26]-1.15@αὐτῷ[2]","ὄπτ᾽ ἐν χερσὶν ἑλών τά ῥά οἱ γέρα πάρθεσαν αὐτῷ","urn:cts:greekLit:tlg0012.tlg002.ogl01:4.67","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:4.67@ὄπτ᾽[1]-4.67@αὐτῷ[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.15@ἀλλ᾽[2]-1.15@ἴτω[2]","ἀλλ᾽ ἄγ᾽ ὁ μὲν πεδίονδ᾽ ἐπὶ βοῦν ἴτω","urn:cts:greekLit:tlg0012.tlg002.ogl01:3.421","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3.421@ἀλλ᾽[1]-3.421@ἴτω[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.16@καὶ[8]-1.16@ἑξῆς[1]","ὄγχνη γάρ φησίν ἐπ᾽ ὄγχνῃ","urn:cts:greekLit:tlg0012.tlg002.ogl01:7.120","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:7.120@ὄγχνη[1]-7.120@ὄγχνῃ[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.16@καὶ[19]-1.16@ἕντο[1]","αὐτὰρ ἐπεὶ πόσιος καὶ ἐδητύος ἐξ ἔρον ἕντο","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.150","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.150@αὐτὰρ[1]-1.150@ἕντο[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.16@καὶ[21]-1.16@αἰγανέαις[1]","δίσκοισι τερπόμενοι καὶ αἰγανέαις","urn:cts:greekLit:tlg0012.tlg002.ogl01:4.626","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:4.626@δίσκοισιν[1]-4.626@αἰγανέῃσιν[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.17@οἶδε[1]-1.17@φησί[2]","χανδὸν ἕλκοντα","urn:cts:greekLit:tlg0012.tlg002.ogl01:21.294","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:21.294@χανδὸν[1]-21.294@ἕλῃ[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.17@οἶδε[1]-1.17@φησί[2]","βλάπτεσθαι","urn:cts:greekLit:tlg0012.tlg002.ogl01:21.294","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:21.294@βλάπτει[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.17@τῷ[3]-1.17@ἡδυπότοιο[1]","ἐν δὲ πίθοι οἴνοιο παλαιοῦ ἡδυπότοιο","urn:cts:greekLit:tlg0012.tlg002.ogl01:2.340","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:2.340@ἐν[1]-2.340@ἡδυπότοιο[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.18@καὶ[9]-1.18@ποτήριον[1]","οἶνός σε τρώει μελιηδής","urn:cts:greekLit:tlg0012.tlg002.ogl01:21.293","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:21.293@οἶνός[1]-21.293@μελιηδής[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.19@ὅτι[1]-1.19@πῦρ[1]","Ὀδυσεὺς καὶ δῖος ὑφορβὸς","urn:cts:greekLit:tlg0012.tlg002.ogl01:16.1","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:16.1@Ὀδυσεὺς[1]-16.1@ὑφορβὸς[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.19@ὅτι[1]-1.19@πῦρ[1]","ἐντύνοντ᾽ ἄριστον κειαμένω πῦρ","urn:cts:greekLit:tlg0012.tlg002.ogl01:16.2","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:16.2@ἐντύνοντο[1]-16.2@πῦρ[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.19@τῆς[1]-1.19@δειελιήσασ[1]","σὺ δ᾽ ἔρχεο δειελιήσασ","urn:cts:greekLit:tlg0012.tlg002.ogl01:17.599","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:17.599@σὺ [1]-17.599@δειελιήσας[1]"
-"urn:cts:greekLit:tlg0008.tlg001.berti:1.20@τῷ[1]-1.20@τράπεζα[2]","ξεστὴ τράπεζα","urn:cts:greekLit:tlg0012.tlg002.ogl01:1.138","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:1.138@ξεστὴν[1]-1.138@τράπεζαν[1]"
+
 
 
 
