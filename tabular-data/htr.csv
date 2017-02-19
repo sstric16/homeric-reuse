@@ -137,6 +137,9 @@
 "urn:cts:greekLit:tlg0008.tlg001.berti:5.10@πολλὸς[1]-5.10@μέσσους[1]", "μολπῆς ἐξάρχοντες ἐδίνευον κατὰ μέσσους", "urn:cts:greekLit:tlg0012.tlg001.ogl01: 18.606",""
 "AnalyzedTextURN","ReusedText","AlignmentURN","AnalyticalEditionURN"
 "urn:cts:greekLit:tlg0008.tlg001.berti:11.24@Ὅμηρος[1]-11.24@δέπαι[1]","ἐν δ᾽ οἶνον ἔχευε","urn:cts:greekLit:tlg0012.tlg002.ogl01:3.40","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3.40@ἐν[1]-3.40@ἔχευεν[1]"
+"urn:cts:greekLit:tlg0008.tlg001.berti:11.24@Ὅμηρος[1]-11.24@δέπαι[1]","χρυσείῳ δέπαι","urn:cts:greekLit:tlg0012.tlg002.ogl01:3.41","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3.41@χρυσείῳ[1]-3.41@δέπαϊ"
+"urn:cts:greekLit:tlg0008.tlg001.berti:11.24@Ὅμηρος[1]-11.24@ἄλεισον[1]","τούνεκα σοὶ δώσω χρύσειον ἄλεισον","urn:cts:greekLit:tlg0012.tlg002.ogl01:3.50","urn:cts:greekLit:tlg0012.tlg002.perseus-grc1:3.50@τοὔνεκα[1]-3.50@ἄλεισον[1]"
+
 
 
 
